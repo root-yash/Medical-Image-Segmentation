@@ -21,6 +21,6 @@ class Initiate:
         os.system(f"kaggle competitions download -c {data}")
         os.system(f"unzip {data}.zip -d Data/{data}/")
         os.system(f"rm -r {data}.zip")
-        os.system("cls")
+        os.system("clear")
         print(f"{data} Downloaded")
 

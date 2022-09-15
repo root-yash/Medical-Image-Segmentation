@@ -6,7 +6,6 @@
 ## Files
 ### Scripts
 * [initiate.txt](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/script/initiate.py) :- contain code to connect to kaggle api and download dataset.
-
 ### Notebooks
 * [Load_data.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/notebook/Load_data.ipynb) :- Download data
 * [eda_hubmap_hpa.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/notebook/eda_hubmap_hpa.ipynb) :- Eda of dataset with observation and correlation found in dataset.

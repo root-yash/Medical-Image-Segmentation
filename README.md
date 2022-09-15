@@ -10,4 +10,4 @@
 ### Notebooks
 * [Load_data.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/notebook/Load_data.ipynb) :- Download data
 * [eda_hubmap_hpa.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/notebook/eda_hubmap_hpa.ipynb) :- Eda of dataset with observation and correlation found in dataset.
-* [hubmap_hpa_train.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/hubmap_hpa_train.ipynb) :- to train model using monai ( medical open source library ) and pytorch lightnight ( faster to implement pytorch ). 
+* [hubmap_hpa_train.ipynb](https://github.com/root-yash/Medical-Image-Segmentation/blob/main/hubmap_hpa_train.ipynb) :- to train model using monai ( medical open source library ) and pytorch lightnight (faster and simpler  to implement pytorch ). 
